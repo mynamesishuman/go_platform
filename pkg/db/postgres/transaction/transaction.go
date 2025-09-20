@@ -4,6 +4,7 @@ import (
 	"context"
 	"github.com/jackc/pgx/v5"
 	"github.com/mynamesishuman/go_platform/pkg/db/postgres"
+	"github.com/mynamesishuman/go_platform/pkg/db/postgres/pg"
 	"github.com/pkg/errors"
 )
 
